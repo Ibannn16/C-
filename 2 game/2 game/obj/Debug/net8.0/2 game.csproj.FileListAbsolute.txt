@@ -1,0 +1,14 @@
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\obj\Debug\net8.0\2 game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\obj\Debug\net8.0\2 game.AssemblyInfoInputs.cache
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\obj\Debug\net8.0\2 game.AssemblyInfo.cs
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\obj\Debug\net8.0\2 game.csproj.CoreCompileInputs.cache
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\bin\Debug\net8.0\2 game.exe
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\bin\Debug\net8.0\2 game.deps.json
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\bin\Debug\net8.0\2 game.runtimeconfig.json
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\bin\Debug\net8.0\2 game.dll
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\bin\Debug\net8.0\2 game.pdb
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\obj\Debug\net8.0\2 game.dll
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\obj\Debug\net8.0\refint\2 game.dll
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\obj\Debug\net8.0\2 game.pdb
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\obj\Debug\net8.0\2 game.genruntimeconfig.cache
+C:\Users\VAN\Documents\UDD CODING SHIT\2 game\2 game\obj\Debug\net8.0\ref\2 game.dll
